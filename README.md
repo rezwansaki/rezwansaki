@@ -1,4 +1,3 @@
-![Laravel](https://github.com/rezwansaki/adminpanel/workflows/Laravel/badge.svg)
 <h1 align="center">Hi, I'm Md. Rezwan Saki Alin.</h1>
 <h3 align="center">I'm a Developer and Designer.</h3>
 
